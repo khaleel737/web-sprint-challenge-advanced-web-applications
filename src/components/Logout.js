@@ -14,7 +14,7 @@ const Logout = (props) => {
 
     return(
         <div>
-            Peace
+            Bye
         </div>
     );
 }
